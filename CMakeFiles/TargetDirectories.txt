@@ -1,0 +1,3 @@
+/home/pedrosc/vct_i2c/CMakeFiles/rebuild_cache.dir
+/home/pedrosc/vct_i2c/CMakeFiles/edit_cache.dir
+/home/pedrosc/vct_i2c/CMakeFiles/vcp_can.dir
